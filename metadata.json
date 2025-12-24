@@ -1,0 +1,5 @@
+{
+  "name": "Sinnoh Battle Engine (Text)",
+  "description": "A Gen IV text-based battle engine simulator following strict Diamond/Pearl rules.",
+  "requestFramePermissions": []
+}
